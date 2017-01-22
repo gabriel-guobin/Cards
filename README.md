@@ -1,24 +1,12 @@
-# Cards
+读书卡片命名方式：c类型-名称；
 
+名称用驼峰式命名原则，重复大写字母只写一个。
 
-读书卡片
-
-
-
-(卡片检索方法借鉴sunoonlee同学，在此感谢）
-
-为便于区分和检索，试采用卡片文件标识符：crd\[tpnqaso]
-
-术语卡 CaRD of Terms
-
-人名卡 CaRD of People
-
-反常识卡 CaRD of New knowledge
-
-金句卡 CaRD of Quotes
-
-行动卡 CaRD of Actions
-
-技巧卡 CaRD of Skills
-
-其他卡 CaRD of Other stuff
+术语卡（Terms）：cT
+人名卡（People）：cP
+反常识卡（New knowledge）：cN
+技巧卡（Skills）：cS
+行动卡（Actions）：cA
+金句卡（Referenced）：cR
+任意卡（Others）：cO
+书评（BookReview）：cB
