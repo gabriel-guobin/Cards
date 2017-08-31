@@ -64,11 +64,7 @@ As teachers—and learners—the two of us have had both a professional and pers
 The basic problem learners confront is that we can easily be misled as to whether we are learning effectively and have or have not achieved a level of learning and comprehension that will support our subsequent access to information or skills we are trying to learn. We can be misled by our subjective impressions. Rereading a chapter a second time, for example, can provide a sense of familiarity or perceptual fluency that we interpret as understanding or comprehension, but may actually be a product of low-level perceptual priming. Similarly, information coming readily to mind can be interpreted as evidence of learning, but could instead be a product of cues that are present in the study situation, but that are unlikely to be present at a later time. We can also be misled by our current performance. Conditions of learning that make performance improve rapidly often fail to support long-term retention and transfer, whereas conditions that create challenges and slow the rate of apparent learning often optimize long-term retention and transfer.
 
 
-学习者必须要面对的一个基本问题即他们对是否在进行有效学习，是否达到了一定学习和领悟的水平从而支撑后续其他知识和技能的学习感到迷惑。
-
-我们会被主观印象所误导。例如，一个章节将其重读一遍即可很容易地提高学习者对它的熟悉性或知觉流畅性，而学习者往往会将这种熟悉性或流畅性看作是“理解”或“领会”。事实上，相对于真正掌握，重读一遍带来的仅是低水平的知觉启动。
-
-然而也可理解为那不过是学习过程中呈现的暗示，以后并不一定能重现。我们也可能被我们目前的表现所误导。虽然目前表现提升迅速，但往往这种情况并不能长久的保持和转化知识，而创造挑战和减缓表现学习速度的条件往往能够最优化这种效果。
+学习者必须要面对的一个基本问题即他们对是否在进行有效学习，是否达到了一定学习和领悟的水平从而支撑后续其他知识和技能的学习感到迷惑。我们会被主观印象所误导。例如，一个章节将其重读一遍即可很容易地提高学习者对它的熟悉性或知觉流畅性，而学习者往往会将这种熟悉性或流畅性看作是“理解”或“领会”。事实上，相对于真正掌握，重读一遍带来的仅是低水平的知觉启动。然而也可理解为那不过是学习过程中呈现的暗示，以后并不一定能重现。我们也可能被我们目前的表现所误导。虽然目前表现提升迅速，但往往这种情况并不能长久的保持和转化知识，而创造挑战和减缓表现学习速度的条件往往能够最优化这种效果。
 
 
 ### Learning versus Performance
